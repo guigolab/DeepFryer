@@ -2,7 +2,8 @@ from setuptools import setup
 from setuptools import find_packages
 
 long_description = '''
-DeepFryer is a framework for the analysis of RNA-seq data in Python. It integrates a lot of functionalities that are useful for this sort of analysis.
+DeepFryer is a framework for the analysis of RNA-seq data using Deep Learning in Python. It integrates a lot of functionalities that 
+are useful for this sort of analysis.
 
 DeepFryer is compatible with Python 3.x
 and is distributed under the MIT liense.
