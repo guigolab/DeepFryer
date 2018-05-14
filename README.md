@@ -14,5 +14,6 @@ You need to have installed Python 3.x.
 In order to install DeepFryer you should have prepared an enviroment with *Keras >= 2.1.6* and *Tensorflow >= 1.7*.
 
 To install Keras follow instructions in https://keras.io/#installation
+
 To install Tensorflow follow instructions in https://www.tensorflow.org/install/
 
