@@ -1,0 +1,120 @@
+VARNAME	VARDESC
+SUBJID	Subject ID, GTEx Public Donor ID
+AGE	Age
+BMI	BMI
+COHORT	Cohort
+ETHNCTY	Ethnicity
+SEX	Gender
+HGHT	Sex
+RACE	Race
+WGHT	Weight
+DTHCOD	Immediate Cause Of Death
+DTHDTRMN	Person Who Determined Date Time Of Death
+DTHFUCOD	First Underlying Cause Of Death
+DTHLUCOD	Last Underlying Cause Of Death
+DTHMNNR	Manner Of Death
+DTHPLCE	Place Of Death
+MHABNWBC	Abnormal Wbc
+MHALS	Amyotropic Lateral Sclerosis
+MHALZDMT	Alzheimer's OR Dementia
+MHALZHMR	Alzheimer's
+MHARTHTS	Arthritis
+MHASCITES	Ascites
+MHASTHMA	Asthma
+MHBCTINF	Bacterial Infections (including septicemia (bacteria in the blood), meningococcal disease, staphylococcal infection, streptococcus, sepsis)
+MHBLDDND	Past Blood Donations Denied
+MHBLDOCNT	Received Blood Transfusion In Another Country
+MHCANCER5	Cancer Diagnosis 5y
+MHCANCERC	Current Diagnosis Of Cancer
+MHCANCERNM	History Of Non Metastatic Cancer
+MHCLLULTS	Cellulites
+MHCLRD	Chronic Lower Respiratory Disease
+MHCOCAINE5	Cocaine Use In 5y
+MHCOPD	Chronic Respiratory Disease (Chronic Obstructive Pulmonary Syndrome (COPD) OR Chronic Lower Respiratory Disease (CLRD) (chronic bronchitis, emphysema, asthma))
+MHCOUGHU	Unexplained Cough
+MHCVD	Cerebrovascular Disease (stroke, TIA, embolism, aneurysm, other circulatory disorder affecting the brain)
+MHDLYSIS	Dialysis Treatment
+MHDMNTIA	Dementia With Unknown Cause
+MHDPRSSN	Major depression (unipolar depression, major depressive disorder)
+MHDTND72H	In Detention Center 72h
+MHENCEPHA	Active Encephalitis
+MHEURO5	In Europe 5y Since 1980
+MHFLU	Influenza (acute viral infection including avian influenza)
+MHFNGINF	Fungal Infections
+MHFVRU	High Unexplained Fever
+MHGNRR12M	Gonorrhea Infection In 12m
+MHHEPBCT	Hepatitis B
+MHHEPCCT	Hepatitis C
+MHHEROIN	Heroin Use
+MHHGH	Received Human Growth Hormone
+MHHIVCT	HIV
+MHHIVNT	Not Able To Be Tested For HIV
+MHHMPHLIA	Hemophilia
+MHHMPHLIAB	Hemophilia
+MHHRTATT	Heart attack, acute myocardial infarction, acute coronary syndrome
+MHHRTDIS	Ischemic Heart Disease (coronary artery disease (CAD), coronary heart disease, ischemic cardiomyopathy)
+MHHRTDISB	Heart Disease
+MHHTN	Hypertension
+MHINFLNE	Infected Lines
+MHIVDRG5	Intravenous Drug Abuse In 5y
+MHJAKOB	Creutzfeldt Jakob Relatives
+MHLAPTHU	Unexplained Lymphadenopathy
+MHLUPUS	Systemic Lupus
+MHLVRDIS	Liver Disease (liver abscess, failure, fatty liver syndrome, inherited liver insufficiency, acute/chronic hepatic insufficiency, necrobacillosis, rupture)
+MHMENINA	Active Meningitis
+MHMS	Multiple Sclerosis
+MHMSXWMA	Men Sex With Men
+MHMSXWMB	Men Sex With Men
+MHNEPH	Nephritis, Nephrotic Syndrome and/or Nephrosis
+MHNGHTSWT	Night Sweats
+MHNPHYS4W	No Physical Activity 4 Weeks
+MHNRTHEUR	Resided On Northern European Military Base
+MHOPNWND	Open Wounds
+MHOPPINF	Opportunistic Infections
+MHORGNTP	Received Tissue Organ Transplant
+MHOSTMYLTS	Osteomyelitis
+MHPLLABS	Prescription Pill Abuse
+MHPNMIAB	Pneumonia
+MHPNMNIA	Pneumonia (acute respiratory infection affecting the lungs)
+MHPRCNP	Non Professional Piercing
+MHPRKNSN	Parkinson's Disease
+MHPSBLDCLT	Positive Blood Cultures
+MHRA	Rheumatoid Arthritis
+MHRBSANML	Bite From Animal With Rabies
+MHREYES	Reyes Syndrome
+MHRNLFLR	Renal Failure
+MHSARS	Diagnosis Of SARS
+MHSCHZ	Schizophrenia
+MHSCLRDRM	Scleroderma
+MHSDRGABS	Signs Of Drug Abuse
+MHSEPSIS	Documented Sepsis
+MHSKNSPT	Spots On Skin
+MHSMLPXCT	Contact With Smallpox
+MHSMLPXVC	Recent Smallpox Vac
+MHSRCDSS	Sarcoidosis
+MHSRGHM	Resident Of State Run Group Home
+MHSTD	Sexually Transmitted Diseases
+MHSTRDLT	Long Term Steroid Use
+MHSUBABSA	Drugs For Non Medical Use In 5y
+MHSUBABSB	Drugs For Non Medical Use In 5y
+MHSXMDA	Sex For Money Or Drugs
+MHSXMDB	Sex For Money Or Drugs
+MHSYPH12M	Syphilis Infection In 12m
+MHSZRSU	Unexplained Seizures
+MHT1D	Diabetes mellitus type 1 (IDDM, formerly juvenile diabetes)
+MHT2D	Diabetes mellitus type II (NIDDM, adult onset diabetes)
+MHTBHX	TB History
+MHTEMPU	Unexplained Temperature
+MHTTOO12M	Tattoos Done In 12m
+MHTTOONP	Non Professional Tattoos
+MHTXCEXP	Exposure To Toxics
+MHUK8096	In Uk 3m 1980 1996
+MHUREMIA	Uremia (Kidney Disorder)
+MHWKNSSU	Unexplained Weakness
+MHWNVCT	History Of Contact With WNV
+MHWNVHX	History Of WNV
+MHWTLSUA	Unexplained Weight Loss
+MHWTLSUB	Unexplained Weight Loss
+TRAMP	Amputation
+TRISCHD	Ischemic Time (Minutes)
+TRDNISCH	Total Ischemic time for a donor

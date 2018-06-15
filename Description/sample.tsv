@@ -1,0 +1,51 @@
+VARNAME	VARDESC
+SAMPID	Sample ID, GTEx Public Sample ID
+SMNABTCH	Nucleic Acid Isolation Batch ID
+SMNABTCHT	Type of nucleic acid isolation batch
+SMNABTCHD	Date of nucleic acid isolation batch
+SMGEBTCHT	Type of genotype or expression batch
+SMCENTER	Code for BSS collection site
+SMMTRLTP	Current material type of the sample as stored at the LDACC
+SMRIN	RIN Number
+SMSTYP	Indicates whether sample is a tumor or a normal
+SMTS	Tissue Type, area from which the tissue sample was taken.  This is a parent value to SMTSD.
+SMTSD	Tissue Type, more specific detail of tissue type
+SMUBRID	Uberon ID, anatomical location as described by the Uber Anatomy Ontology (UBERON)
+SMTSISCH	Total Ischemic time for a sample
+SME2MPRT	End 2 Mapping Rate: the number of End 2 mapped reads divided by the total number of End 1 reads
+SMCHMPRS	Chimeric Pairs: Pairs whose mates map to different genes
+SMNTRART	Intragenic Rate: The fraction of reads that map within genes (within introns or exons)
+SMMAPRT	Mapping Rate: Ratio of total mapped reads to total reads
+SMEXNCRT	Exonic Rate: The fraction of reads that map within exons
+SMGNSDTC	Genes Detected: Total number of genes with at least 5 exon mapping reads.
+SMUNMPRT	Unique Rate of Mapped: Unique reads divided by all mapped reads.
+SMRDLGTH	Read Length: maximum detected read length found.
+SME1MMRT	End 1 Mismatch Rate: The number of End 1 bases not matching the reference divided by the total number of End 1 bases.
+SMSFLGTH	Fragment Length StdDev: The fragment length is the distance between the start of an upstream read and the end of the downstream pair mate
+SMESTLBS	Estimated library size: Number of expected fragments based on the total reads and duplication rate assuming a Poisson distribution.
+SMMPPD	Mapped: Total number of reads aligned/mapped
+SMNTERRT	Intergenic Rate: The fraction of reads that map to the genomic space between genes
+SMRRNANM	rRNA: Number of all reads (duplicate and non-duplicate) aligning to ribosomal RNA regions
+SMRDTTL	Total: Total reads (filtered to exclude reads with vendor fail or alternative alignment flags)
+SMVQCFL	Failed Vendor QC Check: reads having been designated as failed by the sequencer
+SMTRSCPT	Transcripts Detected: Total number of transcripts with at least 5 exon mapping reads
+SMMPPDPR	Mapped Pairs:Total number of pairs for which both ends map
+SMUNPDRD	Unpaired Reads: number of reads lacking a pair mate
+SMNTRNRT	Intronic Rate: The fraction of reads that map within introns
+SMMPUNRT	Mapped Unique Rate of Total: Ratio of mapping of reads that were aligned and were not duplicates to total reads
+SMEXPEFF	Expression Profiling Efficiency: Ratio of exon reads to total reads
+SMMPPDUN	Mapped Unique: Number of reads that were aligned and did not have duplicate flags
+SME2MMRT	End 2 Mismatch Rate: The number of End 2 bases not matching the reference divided by the total number of End 2 bases.
+SME2ANTI	End 2 Antisense: Number of reads that were sequenced in the antisense direction
+SMALTALG	Alternative Aligments: duplicate read entries providing alternative coordinates
+SME2SNSE	End 2 Sense: Number of End 2 reads that were sequenced in the sense direction
+SMMFLGTH	Fragment Length Mean: The fragment length is the distance between the start of an upstream read and the end of the downstream pair mate
+SMSPLTRD	Split Reads: The number of reads that span an exon-exon boundary
+SME1ANTI	End 1 Antisense: Number of End 1 reads that were sequenced in the antisense direction
+SMBSMMRT	Base Mismatch Rate: Number of bases not matching the reference divided by the total number of bases aligned.
+SME1SNSE	End 1 Sense: Number of End 1 reads that were sequenced in the sense direction
+SME1PCTS	End 1 % Sense: Percentage of intragenic End 1 reads that were sequenced in the sense direction
+SMRRNART	rRNA Rate: Ratio of all reads aligned to rRNA regions to total reads
+SME1MPRT	End 1 Mapping Rate: the number of End 1 mapped reads divided by the total number of End 1 reads
+SMDPMPRT	Duplication Rate of Mapped: Duplicate reads divided by total mapped reads
+SME2PCTS	End 2 % Sense: Percentage of intragenic End 2 reads that were sequenced in the sense direction
